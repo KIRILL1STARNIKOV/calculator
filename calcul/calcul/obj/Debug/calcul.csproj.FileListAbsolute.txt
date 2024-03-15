@@ -1,0 +1,16 @@
+C:\Users\kirill\source\repos\calcul\calcul\bin\Debug\calcul.exe.config
+C:\Users\kirill\source\repos\calcul\calcul\bin\Debug\calcul.exe
+C:\Users\kirill\source\repos\calcul\calcul\bin\Debug\calcul.pdb
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul.csproj.AssemblyReference.cache
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\MainWindow.g.cs
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\App.g.cs
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul_MarkupCompile.cache
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul_MarkupCompile.lref
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\MainWindow.baml
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul.g.resources
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul.Properties.Resources.resources
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul.csproj.GenerateResource.cache
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul.csproj.CoreCompileInputs.cache
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul.exe
+C:\Users\kirill\source\repos\calcul\calcul\obj\Debug\calcul.pdb
